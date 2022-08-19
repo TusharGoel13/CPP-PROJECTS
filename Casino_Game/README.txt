@@ -1,4 +1,4 @@
-#ABSTRACT
+**ABSTRACT**
 
 The casino game is for entertainment purposes especially during this covid situation.
 The project is in C++ language of the fact that it is one of the fastest programming of game development engines.
